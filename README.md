@@ -2,7 +2,7 @@
 
 # Exp-1--Study-of-Electronics-components
 # AIM:
-To study the basic electronic components and understand their symbols, specifications, and functions in electronic circuits.
+To study the basic electronic components and understand their symbols, specifications, and functions in electronic circuits
 
 # EQUIPMENT REQUIRED:
 
@@ -42,10 +42,12 @@ Electronic components are available in different packages, such as through-hole 
  
 <img width="1443" height="121" alt="image" src="https://github.com/user-attachments/assets/4da90fe3-303e-4cb3-9841-c20de0b351b7" />
 
-
 # EXPECTED OUTPUT:
+<img width="1236" height="1600" alt="image" src="https://github.com/user-attachments/assets/a0056155-f5d8-4709-a764-06ee70f4a806" />
+<img width="1236" height="1600" alt="image" src="https://github.com/user-attachments/assets/817a3342-4faf-4431-921f-cab9acfc9282" />
+<img width="1236" height="1600" alt="image" src="https://github.com/user-attachments/assets/d22d9691-3b09-405e-9f76-abfc4df90eaf" />
 
- <img width="512" height="683" alt="image" src="https://github.com/user-attachments/assets/7a13e94c-9c7d-4953-a6c1-407390569ebf" />
 
 # RESULT:
 Thus, the basic electronic components such as resistor, capacitor, diode, transistor, and inductor were studied and their functions and specifications were understood.
+
